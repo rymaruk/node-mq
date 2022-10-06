@@ -1,4 +1,3 @@
-// @ts-ignore
 import express, { Request, Response } from "express"
 import isEmpty from "lodash/isEmpty";
 import UtilityRabbitMQ from "app_utility";
