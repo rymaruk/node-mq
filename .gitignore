@@ -1,0 +1,7 @@
+.idea
+node_modules
+applications/**/node_modules
+yarn.lock
+yarn-error.log
+applications/**/*.lock
+applications/**/*.log

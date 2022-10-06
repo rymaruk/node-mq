@@ -1,0 +1,4 @@
+user: "root"
+password: "r@bB!tMq"
+port: "5672"
+host: "localhost"

@@ -1,0 +1,13 @@
+### Send POST request with json body
+POST http://localhost:9005/message
+Content-Type: application/json
+
+{
+  "id": 999,
+  "value": "content"
+}
+
+
+### Send GET request
+GET http://localhost:9006/consumer
+Content-Type: application/json

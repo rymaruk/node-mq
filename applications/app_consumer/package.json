@@ -1,0 +1,13 @@
+{
+  "name": "app_consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --watch ./src/*.ts --exec ts-node src/*.ts"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.186",
+    "lodash": "^4.17.21"
+  }
+}
