@@ -1,4 +1,6 @@
 .idea
+.DS_Store
+applications/.DS_Store
 node_modules
 applications/**/node_modules
 yarn.lock
